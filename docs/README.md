@@ -1,3 +1,3 @@
 # Hello From Github
 
-[Link to Studio Brainstorm page](/studio-brainstorm.html)
+[Studio Brainstorm](docs/Studio-Brainstorm.md)
