@@ -8,6 +8,6 @@
 
 [Devlog 3](/Module-003-Dev-Log.md)
 
-[Devlog 4](/Module-004-DevLog.md)
+[Devlog 4](/docs/Module-004-DevLog.md)
 
-[Devlog 5](/Devlog_005.md)
+[Devlog 5](/docs/DevLog_005)
