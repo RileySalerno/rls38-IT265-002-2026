@@ -12,4 +12,6 @@
 
 [Devlog 5](/DevLog_005.md)
 
+[Devlog 6](/Devlog_006.md)
+
 [Design Treatment](/Design_Treatment.md)
