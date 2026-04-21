@@ -18,4 +18,6 @@
 
 [Devlog 8](/Devlog_008.md)
 
+[Devlog 10](Devlog_10.md)
+
 [Design Treatment](/Design_Treatment.md)
