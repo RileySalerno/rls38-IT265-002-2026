@@ -20,4 +20,4 @@
 
 [Devlog 10](Devlog_10.md)
 
-[Design Treatment](/Design_Treatment.md)
+[Design Treatment](/Game_Design_Document.md)
