@@ -18,6 +18,8 @@
 
 [Devlog 8](/Devlog_008.md)
 
-[Devlog 10](Devlog_10.md)
+[Devlog 10](/Devlog_10.md)
+
+[Devlog_11](/Devlog_Module_011.md)
 
 [Design Treatment](/Game_Design_Document.md)
